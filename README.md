@@ -1,10 +1,9 @@
-Here is a complete `README.md` file for your **Instagram Reels Downloader API**, with full credits to **AnshAPI (Telegram)**:
 
----
 
-### 📄 `README.md`
 
-```markdown
+
+
+markdown
 # 📸 Instagram Reels Downloader API
 
 An easy-to-use API that extracts **download URL**, **caption**, and **thumbnail** from **public Instagram Reels** using `yt-dlp`, built with Python Flask.
@@ -19,7 +18,7 @@ An easy-to-use API that extracts **download URL**, **caption**, and **thumbnail*
 - ⚡ Fast & lightweight
 - 🌐 Deployable on any Python server or service like Render, Railway, Vercel (via Flask adapter)
 
----
+
 
 ## 📦 Requirements
 
